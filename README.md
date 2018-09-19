@@ -1,9 +1,9 @@
 # flix_demo
-# Project 1 - *Name of App Here*
+# Project 1 - Movie FLix
 
-**Name of your app** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+Movie FLix is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: **X** hours spent in total
+Time spent: 18 hours spent in total [Continuing]
 
 ## User Stories
 
