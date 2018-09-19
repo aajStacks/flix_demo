@@ -1,7 +1,6 @@
-# flix_demo
-# Project 1 - Movie FLix
+# flix_demo # Project 1 - Movie Flix
 
-Movie FLix is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+Movie Flix is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 Time spent: 18 hours spent in total [Continuing]
 
